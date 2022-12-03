@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="h-screen flex flex-col justify-center items-center bg-gradient-to-b from-slate-900 to-slate-700">
-      <h1 className="text-6xl text-white animate-flip">Buscador de CEP</h1>
+      <h1 className="text-4xl md:text-6xl text-white animate-flip">Buscador de CEP</h1>
 
       <form
         className='flex rounded bg-white bg-opacity-20 p-3 my-10 shadow-md shadow-black/50'
