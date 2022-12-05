@@ -2,7 +2,7 @@
 
 Buscador de cep feito com react, typescript, Tailwind CSS e VITE
 
-[Demostração ao vivo](https://medeiroz-buscacep.netlify.app)
+[Live Demo](https://medeiroz-buscacep.netlify.app)
 
 
 
